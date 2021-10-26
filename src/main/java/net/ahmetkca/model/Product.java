@@ -1,4 +1,4 @@
-package net.ahmetkca;
+package net.ahmetkca.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -14,9 +14,6 @@ public class Product {
 	private String brand;
 	private String madein;
 	private float price;
-
-	protected Product() {
-	}
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)

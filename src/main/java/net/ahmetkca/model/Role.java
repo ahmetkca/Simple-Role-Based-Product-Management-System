@@ -1,4 +1,4 @@
-package net.ahmetkca;
+package net.ahmetkca.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

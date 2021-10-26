@@ -1,10 +1,12 @@
-package net.ahmetkca;
+package net.ahmetkca.security;
 
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 import java.util.Set;
 
+import net.ahmetkca.model.Role;
+import net.ahmetkca.model.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

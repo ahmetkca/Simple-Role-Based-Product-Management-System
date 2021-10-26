@@ -1,4 +1,4 @@
-package net.ahmetkca;
+package net.ahmetkca.model;
 
 import java.util.HashSet;
 import java.util.Set;
