@@ -1,4 +1,4 @@
-package net.codejava;
+package net.ahmetkca;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;

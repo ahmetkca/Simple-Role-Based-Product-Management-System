@@ -1,4 +1,4 @@
-package net.codejava;
+package net.ahmetkca;
 
 import java.util.ArrayList;
 import java.util.Collection;
